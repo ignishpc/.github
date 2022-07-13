@@ -6,7 +6,7 @@ IgnisHPC is a framework whose main objective is to unify the execution of Big Da
 
 Since MPI was used as its backbone technology, IgnisHPC allows MPI applications and libraries to be directly executed in an efficient way in the framework. In this way, most of the HPC scientific applications, which in many cases contain tens of thousands of lines of code, do not have to be ported to a new API or programming model. The main consequence is that **users could combine in the same multi-language code HPC tasks (using MPI) with Big Data tasks (using MapReduce operations)**.
 
-IgnisHPC outperforms the state-of-the-art framework Spark in terms of performance and scalability running applications that represent the most typical algorithmic patterns in Big Data and scientific computing. For example, considering a 12-node cluster with 2 × Intel Xeon E5-2630v4 (2.2Ghz, 10 cores) per node, the experimental results show that:
+IgnisHPC outperforms the state-of-the-art framework `Spark <https://spark.apache.org>`_ in terms of performance and scalability running applications that represent the most typical algorithmic patterns in Big Data and scientific computing. For example, considering a 12-node cluster with 2 × Intel Xeon E5-2630v4 (2.2Ghz, 10 cores) per node, the experimental results show that:
 
 +-------------------+-------------------+
 | Application       | No. times faster  |
