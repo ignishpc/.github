@@ -62,5 +62,5 @@ César Piñeiro, Rodrigo Martínez-Castaño and Juan C. Pichel. `Ignis: An effic
 |       |core1|       |       |core2|       |       |core3|       |       |core4|       |
 +---------------------+---------------------+---------------------+---------------------+
 | **Python**          | **C/Cpp**           |**Java**             | **Go**              |
-|                     |                     |(under revision)     | (alpha)             |
+|                     |                     |(under revision)     | (beta)              |
 +---------------------+---------------------+---------------------+---------------------+
